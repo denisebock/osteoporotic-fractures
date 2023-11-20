@@ -10,7 +10,7 @@ Approaches or solutions that have been tried before on similar projects.
   - **Objective**: cost-saving classification approach using 43 predictive variables for 5-year hip fracture risk with equivalent diagnostic utility as the use of a robust optimum classification rule 
   - **Methods**: generation of a cost-saving classification rule and conduction of a validation study
   - **Outcomes**: cost-saving classification rule is statistically non-inferior to the robust optimum classification rule
-  - **Relation to the Project**: hints for variable selection based on variable importance, theoretical background on variables and decision making
+  - **Relation to the Project**: hints for variable selection based on variable importance, theoretical background on clinically important variables and decision making 
 
 - **Source 2**: [Osteoporosis in Women and Men]
 
