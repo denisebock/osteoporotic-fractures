@@ -12,18 +12,24 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: cost-saving classification rule is statistically non-inferior to the robust optimum classification rule
   - **Relation to the Project**: hints for variable selection based on variable importance, theoretical background on variables and decision making
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: [Osteoporosis in Women and Men]
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **[Kaggle](https://www.kaggle.com/code/aqsasadaf/osteoporosis-in-women-and-men)**
+  - **Objective**: Research questions:
+                  1. Examining the difference between men and women for osteoporosis risk. 
+                  2. Examining the age at which fracture is most common for females and males.
+                  3. Examining the effect of age, weight and height on BMD score.
+  - **Methods**: EDA -> Data Preprocessing (Scaling, Encoding) -> Regression analysis: Ridge, Lasso, DecisionTree, RandomForest, XGBOOST
+  - **Outcomes**: Linear regression had the best performance (R2, MSE) 
+  - **Relation to the Project**: provides some framework for building regression models for osteoporosis data analysis
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: [Stroke Prediction Using Machine Learning]
 
-  - **[Link]()**
-  - **Objective**:
-  - **Methods**:
-  - **Outcomes**:
-  - **Relation to the Project**:
+  - **[Kaggle](https://www.kaggle.com/code/lcchennn/stroke-prediction-using-machine-learning/notebook)**
+  - **Objective**: Analyze health data for feature selection and stroke prediction
+  - **Methods**: Scikit-learn, Logistics Regression, SVM, RandomForestClassifier, XGBoost classifier, ROC/AUC score, confusion matrix
+  - **Outcomes**: Random Forest performed the best in terms of accuracy
+  - **Relation to the Project**: (National Health & Nutrition Examination Survey) dataset has a similar structure to SOF dataset
+              - provides some method for balancing dataset which could be useful for our own imbalanced dataset
+              - feature selection and prediction are also included in this analysis
+              - structure is similar to our intended analysis structure
