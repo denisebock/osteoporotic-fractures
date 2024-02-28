@@ -11,13 +11,13 @@ Based on data from the Study of Osteoporosis (SOF) Dataset, we want to predict h
 
 ### Task Type
 
-Regression/Classification
+Classification
 
 ### Results Summary
 
 - **Best Model:** All models performed very bad
 - **Evaluation Metric:** Accuracy, Specificity, Sensitivity
-- **Result:** Bad metrics for all models
+- **Result:** weak performance for all models
 
 ## Documentation
 
